@@ -1,8 +1,8 @@
 % Code for paper:"Bilinear Adaptive Generalized Adaptive Vector Approximate
 % Message Passing", IEEE Access, 2018.
 % Test main code for Compressed Sensing with Matrix Uncertainty
-% Code written by Xiangming Meng and Jiang Zhu
-% Email: mengxm11@gmail.com, jiangzhu16@zju.edu.cn
+% Code written by Jiang Zhu and Xiangming Meng
+% Email: jiangzhu16@zju.edu.cn, mengxm11@gmail.com
 % 2018, Sep. 27
 
 clear;
